@@ -1,0 +1,30 @@
+/* tag */
+h1 {
+  font-size: 5em;
+}
+
+/* ID */
+#sobreLink {
+  color: #fefae0;
+}
+
+#spanZluhan,
+#spanEmail {
+  color: #bc6c25;
+}
+
+#info {
+  font-size: 1.2em;
+  margin-bottom: 8em;
+}
+
+#definicao {
+  margin-bottom: 5em;
+  font-size: 1.2em;
+}
+
+/* class */
+.letraHover:hover {
+  font-weight: 900;
+  transition: 400ms;
+}

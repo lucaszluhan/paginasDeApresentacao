@@ -1,0 +1,16 @@
+/* tag */
+h1 {
+  font-size: 4em;
+  text-decoration: 0.1em underline black;
+  margin-bottom: 4rem;
+}
+
+ul {
+  font-size: 1.4rem;
+  margin-bottom: 10rem;
+}
+
+/* ID */
+#objetivoLink {
+  color: #fefae0;
+}

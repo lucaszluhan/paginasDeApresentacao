@@ -1,0 +1,16 @@
+/* tag */
+h1 {
+  font-size: 4em;
+  text-decoration: 0.1em underline black;
+  margin-bottom: 2rem;
+}
+
+ul {
+  font-size: 1.4em;
+  margin-bottom: 10rem;
+}
+
+/* ID */
+#conhecimentosLink {
+  color: #fefae0;
+}
